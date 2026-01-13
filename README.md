@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# EVERLANE_E-commerce-Website
+This project is a frontend e-commerce website interface developed using modern web technologies. The website is inspired by a clean and minimal fashion brand design and focuses on providing a smooth and user-friendly shopping experience.
+>>>>>>> f29accc13aee5cb3e492cbb562b8f633788992fe
